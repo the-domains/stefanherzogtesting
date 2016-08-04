@@ -1,0 +1,14 @@
+layout_spectrum: 0.8895098816137761
+typography_spectrum: 0.6953888728749007
+color:
+  brandStrength: 0.10467146895825863
+  lightness: 0.21173383831046522
+  saturation: 0.5379514636006206
+  rhythmicContrast: 0.2716627726331353
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: stefanherzogtesting
