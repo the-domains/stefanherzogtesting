@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-08-04T12:50:32.917Z'
+datePublished: '2016-08-04T12:52:40.622Z'
 sourcePath: _posts/2016-08-04-another-section.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/027d574b-376c-4251-b4f4-1bd619f8c6ff.png
 author: []
 via: {}
-dateModified: '2016-08-04T12:43:43.374Z'
+dateModified: '2016-08-04T12:52:39.849Z'
 title: Cognitive science
 publisher: {}
 description: 'Yes, cognitive science.'
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
