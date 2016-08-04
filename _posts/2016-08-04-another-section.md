@@ -1,19 +1,23 @@
 ---
-description: Another section
-dateModified: '2016-08-04T12:36:26.341Z'
-datePublished: '2016-08-04T12:36:33.816Z'
-title: ''
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-04T12:41:04.967Z'
 sourcePath: _posts/2016-08-04-another-section.md
+isBasedOnUrl: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/027d574b-376c-4251-b4f4-1bd619f8c6ff.png
+author: []
+via: {}
+dateModified: '2016-08-04T12:41:04.162Z'
+title: Cognitive science
+publisher: {}
+description: 'Yes, cognitive science.'
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-Another section
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/027d574b-376c-4251-b4f4-1bd619f8c6ff.png)
 
-Yes, this is another section. Where will it end up?
+# Cognitive science
+
+Yes, cognitive science.
