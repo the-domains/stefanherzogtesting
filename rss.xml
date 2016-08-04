@@ -2,14 +2,28 @@
     <channel>
         <title><![CDATA[test it!]]></title>
         <description><![CDATA[test it!]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/stefanherzogtesting/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 12:40:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 04 Aug 2016 12:41:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/stefanherzogtesting/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cognitive science]]></title>
+            <description><![CDATA[<article><h1>Cognitive science</h1><p>Yes, cognitive science.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/027d574b-376c-4251-b4f4-1bd619f8c6ff.png"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/027d574b-376c-4251-b4f4-1bd619f8c6ff.png</link>
+            <guid isPermaLink="false">f9f8d149-5ca9-4f4d-899b-3109cb74a17b</guid>
+            <pubDate>Thu, 04 Aug 2016 12:41:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blog post with a picture]]></title>
+            <description><![CDATA[<article><h1>Blog post with a picture</h1><p>This is a blog post with a picture. Should I add some Lorem Ipsum? Or the hipster version of it?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e72b453-4ee1-4422-ad07-4a1473315413.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e72b453-4ee1-4422-ad07-4a1473315413.jpg</link>
+            <guid isPermaLink="false">266ceba2-c330-4840-a901-ab7f0631aa57</guid>
+            <pubDate>Thu, 04 Aug 2016 12:40:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1d23fef-1535-4245-84f7-81f90c2dcc97.jpg">]]></description>
-            <link>undefinedd22bba74-a7c9-412b-85d8-de1111a9e245/index.html</link>
+            <link>https://thegrid.ai/stefanherzogtesting/d22bba74-a7c9-412b-85d8-de1111a9e245/index.html</link>
             <guid isPermaLink="false">d22bba74-a7c9-412b-85d8-de1111a9e245</guid>
             <pubDate>Thu, 04 Aug 2016 12:40:02 GMT</pubDate>
         </item>
