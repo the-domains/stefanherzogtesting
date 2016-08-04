@@ -1,16 +1,16 @@
-typography_spectrum: 0.48498492198996246
+typography_spectrum: 0.6953888728749007
 color:
-  brandStrength: 0.16222008666954935
-  lightness: 0.8912784380372614
-  saturation: 0.5682383999228477
-  rhythmicContrast: 0.5637970166280866
+  brandStrength: 0.10467146895825863
+  lightness: 0.21173383831046522
+  saturation: 0.5379514636006206
+  rhythmicContrast: 0.2716627726331353
   brandColors:
-    - '#FF6600'
-    - '#C13B00'
-    - '#5E6D70'
-    - '#424E4F'
-    - '#1B1D1E'
-layout_spectrum: 0.550491985399276
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+layout_spectrum: 0.8895098816137761
 name: stefanherzogtesting
-title: Test the AI web designer
+title: Testing the AI web designer
 description: Does it work?
