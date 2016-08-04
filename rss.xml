@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[test it!]]></title>
-        <description><![CDATA[test it!]]></description>
+        <title><![CDATA[Test the AI web designer]]></title>
+        <description><![CDATA[Test the AI web designer]]></description>
         <link>https://thegrid.ai/stefanherzogtesting/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 12:41:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 12:43:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/stefanherzogtesting/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/027d574b-376c-4251-b4f4-1bd619f8c6ff.png">]]></description>
+            <title><![CDATA[Cognitive science]]></title>
+            <description><![CDATA[<article><h1>Cognitive science</h1><p>Yes, cognitive science.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/027d574b-376c-4251-b4f4-1bd619f8c6ff.png"></article>]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/027d574b-376c-4251-b4f4-1bd619f8c6ff.png</link>
             <guid isPermaLink="false">f9f8d149-5ca9-4f4d-899b-3109cb74a17b</guid>
-            <pubDate>Thu, 04 Aug 2016 12:41:03 GMT</pubDate>
+            <pubDate>Thu, 04 Aug 2016 12:43:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Blog post with a picture]]></title>
