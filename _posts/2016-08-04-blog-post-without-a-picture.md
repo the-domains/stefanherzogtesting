@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-04T12:52:27.176Z'
+datePublished: '2016-08-04T12:52:28.276Z'
 sourcePath: _posts/2016-08-04-blog-post-without-a-picture.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-04T12:52:24.993Z'
+dateModified: '2016-08-04T12:52:27.285Z'
 title: Blog post with a picture
 publisher: {}
 description: >-
